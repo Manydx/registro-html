@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #323730;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #3f3d56;
+  font-size: 37px;
+  font-weight:700;
+
+  margin-top: 68px;
+  margin-bottom: 22px;
+}
+
+.box {
+  display:flex;
+  flex-direction:column;
+
+  margin-bottom: 22px;
+}
+
+.date {
+  margin-bottom: 22px;
+  display: flex;
+
+}
